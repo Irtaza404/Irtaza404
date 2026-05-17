@@ -1,11 +1,11 @@
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,20:020d05,50:003322,80:006644,100:00ff88&height=300&section=header&text=Muhammad%20Irtaza&fontSize=70&fontColor=00ff88&fontAlignY=42&desc=Security%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Problem%20Solver&descSize=17&descAlignY=62&descColor=39d353&animation=fadeIn&stroke=00ff88&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,20:020d05,50:003322,80:006644,100:00ff88&height=300&section=header&text=Muhammad%20Irtaza&fontSize=70&fontColor=00ff88&fontAlignY=42&desc=Web%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Problem%20Solver&descSize=17&descAlignY=62&descColor=39d353&animation=fadeIn&stroke=00ff88&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=00FF88&center=true&vCenter=true&width=700&height=55&lines=I+encrypt.+I+architect.+I+solve.;AES-256+%7C+bcrypt+%7C+2FA+%7C+OTP+%7C+DSA;Logic+before+libraries.+Always.;From+C%2B%2B+foundations+to+Java+vaults.;The+code+is+clean+%E2%80%94+or+it+gets+rewritten." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=00FF88&center=true&vCenter=true&width=700&height=55&lines=I+encrypt.+I+architect.+I+solve.;;Logic+before+libraries.+Always.;From+C%2B%2B+foundations+to+Java+vaults.;The+code+is+clean+%E2%80%94+or+it+gets+rewritten." alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -34,7 +34,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:001a0d&height=3&section=header" width="100%"/>
 </div>
 
-## `⚡ whoami`
+## `⚡ Who am I ?`
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -42,12 +42,10 @@
 │   name      →   Muhammad Irtaza                                  │
 │   alias     →   [ CLASSIFIED ]                                   │
 │   degree    →   BSCS (AI)                                        │
-│   primary   →   It's a secret 🔐                                 │
+│   primary   →   It's a secret                                    |
 │   domains   →   Web Development                                  │
 │                 Artificial Intelligence                          │
 │                 Problem Analysis & Solving                       │
-│                 Information Security                             │
-│                 Data Structures & Algorithms                     │
 │   approach  →   "First I understand the problem.                 │
 │                  Then I build the solution.                      │
 │                  Then I break it.                                │
