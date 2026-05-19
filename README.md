@@ -1,30 +1,46 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        HEADER SECTION                           ║ -->
+<!-- ║                     ANIMATED HEADER                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,12:050010,28:1a0050,48:4b0082,68:8b00ff,84:ff00cc,96:ff6600,100:ffaa00&height=350&section=header&text=Muhammad%20Irtaza&fontSize=82&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Problem%20Solver&descSize=20&descAlignY=62&descColor=e0aaff&animation=fadeIn&stroke=bf00ff&strokeWidth=3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,12:03001C,30:0A0025,52:1B0044,72:4A00A0,88:8B00FF,96:FF1493,100:FF6B00&height=380&section=header&fontSize=1&animation=fadeIn" width="100%"/>
 
+<!-- ANIMATED NAME SVG — custom glowing stroke animation -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=26&duration=2400&pause=500&color=FF6EC7&center=true&vCenter=true&width=780&height=65&lines=I+encrypt.+I+architect.+I+solve.;Logic+before+libraries.+Always.;From+C%2B%2B+foundations+to+Java+vaults.;The+code+is+clean+%E2%80%94+or+it+gets+rewritten.;Security+is+not+a+feature.+It%27s+a+mindset.;Building+the+unbreakable%2C+one+commit+at+a+time." alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=58&duration=1&pause=99999999&color=00000000&center=true&vCenter=true&width=1&height=1&lines=x" alt=""/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=52&duration=3500&pause=800&color=FF1493&center=true&vCenter=true&multiline=false&width=820&height=90&lines=Muhammad+Irtaza;%E2%96%88%E2%96%88%E2%96%88+CLASSIFIED+%E2%96%88%E2%96%88%E2%96%88;Muhammad+Irtaza)](https://git.io/typing-svg)
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=600&color=FF6EC7&center=true&vCenter=true&width=750&height=50&lines=⚡+Web+Developer+•+AI+Engineer+•+Problem+Solver+⚡;🔐+Security+is+not+a+feature.+It%27s+a+mindset.;🧠+Logic+before+libraries.+Always.;💻+From+C%2B%2B+foundations+to+Java+vaults.;🚀+Building+the+unbreakable%2C+one+commit+at+a+time.;⚔️+The+code+is+clean+—+or+it+gets+rewritten.)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- ANIMATED WAVE BADGES -->
+<a href="https://www.linkedin.com/in/muhammad-irtaza-7aa628359/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:irtazasaeed35@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://github.com/Irtaza404">
+  <img src="https://img.shields.io/badge/GitHub-8B00FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Irtaza404&label=👁️+Views&color=FF1493&style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/muhammad-irtaza-7aa628359/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!-- NEON STATUS ROW -->
+<img src="https://img.shields.io/badge/⚡_STATUS-BUILDING-FF4500?style=flat-square&labelColor=1a0800&color=FF4500"/>
 &nbsp;
-<a href="mailto:irtazasaeed35@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/🔮_MINDSET-SECURITY_FIRST-8B00FF?style=flat-square&labelColor=0d0020&color=8B00FF"/>
 &nbsp;
-<a href="https://github.com/Irtaza404"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/💡_APPROACH-LOGIC_FIRST-00BFFF?style=flat-square&labelColor=00101a&color=00BFFF"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Irtaza404&label=Profile+Views&color=bf00ff&style=for-the-badge"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🔴%20Status-Building-ff4444?style=flat-square&labelColor=1a0000"/>
-<img src="https://img.shields.io/badge/🟣%20Mindset-Security%20First-bf00ff?style=flat-square&labelColor=100020"/>
-<img src="https://img.shields.io/badge/🔵%20Approach-Logic%20Before%20Libraries-00bfff?style=flat-square&labelColor=001020"/>
-<img src="https://img.shields.io/badge/🟠%20Focus-Java%20%2B%20Web%20%2B%20AI-ff8800?style=flat-square&labelColor=200800"/>
-<img src="https://img.shields.io/badge/🟢%20Open-To%20Collaborate-00cc66?style=flat-square&labelColor=001a08"/>
+<img src="https://img.shields.io/badge/🎯_FOCUS-JAVA_+_WEB_+_AI-FF1493?style=flat-square&labelColor=1a0008&color=FF1493"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🤝_OPEN-TO_COLLAB-00FF88?style=flat-square&labelColor=001a08&color=00FF88"/>
 
 </div>
 
@@ -39,20 +55,18 @@
 </picture>
 </div>
 
-<!-- ═══════════════════ WAVE ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,25:ff00cc,50:bf00ff,75:00bfff,100:0d1117&height=100&section=footer&animation=fadeIn&reversal=false" width="100%"/>
+<!-- ═══ WAVE ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B00FF,20:FF1493,45:FF6B00,70:FFD700,100:0d1117&height=110&section=footer&animation=fadeIn&reversal=false" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                        WHO AM I                                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:160040,60:2d0070,100:0d1117&height=56&text=%E2%9A%A1+WHO+AM+I%3F&fontSize=26&fontColor=e0aaff&animation=fadeIn&fontAlignY=67" width="100%"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:03001C,40:0D0035,80:1B0055,100:03001C&height=62&text=⚡+WHO+AM+I%3F&fontSize=28&fontColor=C77DFF&animation=fadeIn&fontAlignY=68" width="100%"/>
 
 <br/>
-
-<div align="center">
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
@@ -72,24 +86,22 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=00BFFF&center=true&vCenter=true&width=600&height=34&lines=%5B+Systems+don%27t+build+themselves.+%5D;%5B+Security+is+not+a+feature.+It%27s+a+mindset.+%5D;%5B+Every+line+has+a+reason.+%5D;%5B+Understand+the+problem.+Then+own+it.+%5D" alt="Quotes"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1500&color=00BFFF&center=true&vCenter=true&width=640&height=36&lines=〔+Systems+don't+build+themselves.+〕;〔+Security+is+not+a+feature.+It's+a+mindset.+〕;〔+Every+line+has+a+reason.+〕;〔+Understand+the+problem.+Then+own+it.+〕)](https://git.io/typing-svg)
 
 </div>
 
-<!-- ═══════════════════ WAVE ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001a40,60:003380,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
+<!-- ═══ WAVE ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:001840,65:0033AA,100:0d1117&height=90&section=footer&animation=fadeIn" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                        TECH STACK                               ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:001a33,60:003366,100:0d1117&height=56&text=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK&fontSize=26&fontColor=00bfff&animation=fadeIn&fontAlignY=67" width="100%"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001428,40:002255,80:003880,100:001428&height=62&text=🛠️+TECH+STACK&fontSize=28&fontColor=48CAE4&animation=fadeIn&fontAlignY=68" width="100%"/>
 
 <br/>
-
-<div align="center">
 
 **`── Languages ──`**
 
@@ -111,26 +123,26 @@
 
 <br/>
 
-| Skill | Level | Bar |
-|:------|:-----:|:----|
-| ☕ Java | `95%` | ![](https://geps.dev/progress/95?dangerColor=bf00ff&warningColor=00bfff&successColor=2ecc71) |
-| 🐍 Python | `88%` | ![](https://geps.dev/progress/88?dangerColor=bf00ff&warningColor=00bfff&successColor=2ecc71) |
-| ⚙️ C++ | `78%` | ![](https://geps.dev/progress/78?dangerColor=ff6b6b&warningColor=f39c12&successColor=2ecc71) |
-| 🧠 DSA | `84%` | ![](https://geps.dev/progress/84?dangerColor=ff6b6b&warningColor=f39c12&successColor=2ecc71) |
-| 🔐 InfoSec | `74%` | ![](https://geps.dev/progress/74?dangerColor=ff6b6b&warningColor=f39c12&successColor=2ecc71) |
-| 🌐 Web Dev | `60%` | ![](https://geps.dev/progress/60?dangerColor=ff6b6b&warningColor=f39c12&successColor=2ecc71) |
+| Skill | Level | Progress |
+|:------|:-----:|:---------|
+| ☕ Java | `95%` | ![](https://geps.dev/progress/95?dangerColor=FF1493&warningColor=8B00FF&successColor=00BFFF) |
+| 🐍 Python | `88%` | ![](https://geps.dev/progress/88?dangerColor=FF1493&warningColor=8B00FF&successColor=00BFFF) |
+| ⚙️ C++ | `78%` | ![](https://geps.dev/progress/78?dangerColor=FF4500&warningColor=FF8C00&successColor=FFD700) |
+| 🧠 DSA | `84%` | ![](https://geps.dev/progress/84?dangerColor=FF1493&warningColor=8B00FF&successColor=00BFFF) |
+| 🔐 InfoSec | `74%` | ![](https://geps.dev/progress/74?dangerColor=FF4500&warningColor=FF8C00&successColor=FFD700) |
+| 🌐 Web Dev | `60%` | ![](https://geps.dev/progress/60?dangerColor=FF4500&warningColor=FF8C00&successColor=FFD700) |
 
 </div>
 
-<!-- ═══════════════════ WAVE ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:200050,55:4b0082,80:bf00ff,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
+<!-- ═══ WAVE ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:2D0060,55:6A00C8,85:FF1493,100:0d1117&height=90&section=footer&animation=fadeIn" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                     FEATURED PROJECTS                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:200040,60:3d007a,100:0d1117&height=56&text=%F0%9F%9A%80+FEATURED+PROJECTS&fontSize=26&fontColor=ff6ec7&animation=fadeIn&fontAlignY=67" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A0030,40:350060,80:5500AA,100:1A0030&height=62&text=🚀+FEATURED+PROJECTS&fontSize=28&fontColor=FF79C6&animation=fadeIn&fontAlignY=68" width="100%"/>
 </div>
 
 <br/>
@@ -139,11 +151,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0040,50:2d0060,100:1a0040&height=48&text=%F0%9F%94%90+IronGate+Vault+%E2%80%94+IS+%2B+DSA+Capstone&fontSize=20&fontColor=e0aaff&animation=fadeIn&fontAlignY=67" width="90%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=99999&color=C77DFF&center=true&vCenter=true&width=680&height=48&lines=🔐+IronGate+Vault+—+IS+%2B+DSA+Capstone)](https://git.io/typing-svg)
 
 </div>
-
-<br/>
 
 > **Java · IS + DSA Capstone** — A production-grade secure file vault built entirely from scratch.
 
@@ -161,7 +171,7 @@
 
 <div align="center">
   <a href="https://github.com/Irtaza404/IronGate_Vault">
-    <img src="https://raw.githubusercontent.com/Irtaza404/IronGate_Vault/main/preview.png" width="85%" style="border-radius:12px; border: 2px solid #bf00ff; box-shadow: 0 0 30px #bf00ff55;"/>
+    <img src="https://raw.githubusercontent.com/Irtaza404/IronGate_Vault/main/preview.png" width="85%" style="border-radius:12px; border: 2px solid #8B00FF;"/>
   </a>
 </div>
 
@@ -169,7 +179,7 @@
 
 <div align="center">
 <a href="https://github.com/Irtaza404/IronGate_Vault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irtaza404&repo=IronGate_Vault&bg_color=0d1117&border_color=bf00ff&title_color=bf00ff&text_color=e0aaff&icon_color=ff6ec7&show_owner=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irtaza404&repo=IronGate_Vault&bg_color=03001C&border_color=8B00FF&title_color=C77DFF&text_color=e0aaff&icon_color=FF1493&show_owner=true"/>
 </a>
 </div>
 
@@ -191,17 +201,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-Core-f39c12?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/AES--256-Encryption-bf00ff?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/bcrypt-Auth-00bfff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/2FA-OTP-ff6b6b?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/DSA-Custom%20Built-2ecc71?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Java-Core-FF8C00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/AES--256-Encryption-8B00FF?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/bcrypt-Auth-00BFFF?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/2FA-OTP-FF1493?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/DSA-Custom%20Built-00FF88?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,25:7b00ff,50:00bfff,75:2ecc71,100:bf00ff&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B00FF,20:FF1493,40:FF6B00,60:FFD700,80:00BFFF,100:8B00FF&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -209,11 +219,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2a0000,50:500000,100:2a0000&height=48&text=%F0%9F%9A%A8+Emergency+Response+System+%E2%80%94+C%2B%2B+Flagship&fontSize=20&fontColor=ffb3b3&animation=fadeIn&fontAlignY=67" width="90%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=99999&color=FF6B6B&center=true&vCenter=true&width=720&height=48&lines=🚨+Emergency+Response+System+—+C%2B%2B+Flagship)](https://git.io/typing-svg)
 
 </div>
-
-<br/>
 
 > **C++ · Semester 1 Flagship** — A full console dispatch simulation with 5 roles. Built from scratch. Rewritten once.
 
@@ -231,7 +239,7 @@
 
 <div align="center">
   <a href="https://github.com/Irtaza404/Emergency-Response-System-ERS-">
-    <img src="https://raw.githubusercontent.com/Irtaza404/Emergency-Response-System-ERS-/main/preview.png" width="85%" style="border-radius:12px; border: 2px solid #ff6b6b;"/>
+    <img src="https://raw.githubusercontent.com/Irtaza404/Emergency-Response-System-ERS-/main/preview.png" width="85%" style="border-radius:12px; border: 2px solid #FF4500;"/>
   </a>
 </div>
 
@@ -239,7 +247,7 @@
 
 <div align="center">
 <a href="https://github.com/Irtaza404/Emergency-Response-System-ERS-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irtaza404&repo=Emergency-Response-System-ERS-&bg_color=0d1117&border_color=ff6b6b&title_color=ff6b6b&text_color=ffb3b3&icon_color=f39c12&show_owner=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irtaza404&repo=Emergency-Response-System-ERS-&bg_color=1A0000&border_color=FF4500&title_color=FF6B6B&text_color=FFBBAA&icon_color=FFD700&show_owner=true"/>
 </a>
 </div>
 
@@ -265,66 +273,56 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C++-Core-ff6b6b?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/OOP-Architecture-f39c12?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/STL-Vectors%20%26%20Structs-00bfff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Console-Role--Driven%20App-bf00ff?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/C++-Core-FF4500?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/OOP-Architecture-FFD700?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STL-Vectors%20%26%20Structs-00BFFF?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Console-Role--Driven%20App-FF1493?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
 
 </div>
 
-<!-- ═══════════════════ WAVE ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:ff4444,55:f39c12,80:ffdd57,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
+<!-- ═══ WAVE ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:FF4500,55:FF8C00,80:FFD700,100:0d1117&height=90&section=footer&animation=fadeIn" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                     GITHUB ANALYTICS                            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:001428,60:002850,100:0d1117&height=56&text=%F0%9F%93%8A+GITHUB+ANALYTICS&fontSize=26&fontColor=00bfff&animation=fadeIn&fontAlignY=67" width="100%"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001020,40:001E40,80:003370,100:001020&height=62&text=📊+GITHUB+ANALYTICS&fontSize=28&fontColor=48CAE4&animation=fadeIn&fontAlignY=68" width="100%"/>
 
 <br/>
 
-<div align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Irtaza404&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=7c3aed&title_color=bf00ff&text_color=e0aaff&icon_color=00bfff&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Irtaza404&show_icons=true&bg_color=03001C&border_color=8B00FF&title_color=C77DFF&text_color=E0AAFF&icon_color=00BFFF&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"/>
 &nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irtaza404&layout=donut&theme=tokyonight&bg_color=0d1117&border_color=ff6b6b&title_color=ff6b6b&text_color=ffb3b3&hide_border=false"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irtaza404&layout=donut&bg_color=1A0000&border_color=FF4500&title_color=FF6B6B&text_color=FFBBAA&hide_border=false"/>
 
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Irtaza404&theme=dark&background=03001C&ring=8B00FF&fire=FF1493&currStreakLabel=00BFFF&sideLabels=C77DFF&dates=888888&border=8B00FF&stroke=FF1493" width="72%"/>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Irtaza404&theme=dark&background=0d1117&ring=bf00ff&fire=ff6600&currStreakLabel=00bfff&sideLabels=e0aaff&dates=888888&border=7c3aed&stroke=7c3aed" width="70%"/>
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irtaza404&bg_color=03001C&color=C77DFF&line=FF1493&point=FFD700&area=true&area_color=8B00FF&hide_border=false&border_color=8B00FF&title_color=E0AAFF&custom_title=Muhammad+Irtaza's+Contribution+Graph" width="98%"/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irtaza404&bg_color=0d1117&color=bf00ff&line=00bfff&point=ff6ec7&area=true&area_color=4b0082&hide_border=false&border_color=7c3aed&title_color=e0aaff&custom_title=Irtaza's%20Contribution%20Activity" width="98%"/>
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Irtaza404&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" width="100%"/>
+
 </div>
 
-<!-- ═══════════════════ WAVE ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003320,60:006640,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
+<!-- ═══ WAVE ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:003820,60:007840,90:00CC66,100:0d1117&height=90&section=footer&animation=fadeIn" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                    BEYOND THE TERMINAL                          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,30:0a2010,60:123318,100:0d1117&height=56&text=%E2%9A%A1+BEYOND+THE+TERMINAL&fontSize=26&fontColor=2ecc71&animation=fadeIn&fontAlignY=67" width="100%"/>
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001A08,40:003010,80:005520,100:001A08&height=62&text=⚡+BEYOND+THE+TERMINAL&fontSize=28&fontColor=57CC99&animation=fadeIn&fontAlignY=68" width="100%"/>
 
 <br/>
-
-<div align="center">
 
 | | |
 |:---:|:---|
@@ -335,16 +333,16 @@
 
 </div>
 
-<!-- ═══════════════════ WAVE ═══════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1a0050,45:4b0082,70:bf00ff,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
+<!-- ═══ WAVE ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1A0040,48:4A00A0,76:8B00FF,100:0d1117&height=90&section=footer&animation=fadeIn" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                        FOOTER                                   ║ -->
+<!-- ║                         FOOTER                                  ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=4500&pause=2500&color=FF6EC7&center=true&vCenter=true&width=740&height=44&lines=%22Well-structured+code+is+just+as+important+as+creative+features.%22+%E2%80%94+M.+Irtaza" alt="Quote"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=4500&pause=2500&color=FF79C6&center=true&vCenter=true&width=760&height=46&lines=%22Well-structured+code+is+just+as+important+as+creative+features.%22+—+M.+Irtaza)](https://git.io/typing-svg)
 
 <br/>
 
@@ -352,6 +350,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,14:ff2288,28:bf00ff,42:7b00ff,56:0055ff,70:00bfff,84:00cc88,100:0d1117&height=180&section=footer&animation=fadeIn&text=Let%27s%20Build%20Something%20Unbreakable&fontSize=24&fontColor=ffffff&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,12:FF1493,26:8B00FF,40:4400CC,54:0055FF,68:00AAFF,80:00FF88,92:FFD700,100:0d1117&height=200&section=footer&animation=fadeIn&text=Let's+Build+Something+Unbreakable&fontSize=26&fontColor=ffffff&fontAlignY=72" width="100%"/>
 
 </div>
