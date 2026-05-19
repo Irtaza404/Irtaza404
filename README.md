@@ -1,14 +1,24 @@
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,20:020d05,50:003322,80:006644,100:00ff88&height=300&section=header&text=Muhammad%20Irtaza&fontSize=70&fontColor=00ff88&fontAlignY=42&desc=Web%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Problem%20Solver&descSize=17&descAlignY=62&descColor=39d353&animation=fadeIn&stroke=00ff88&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,10:010a04,30:002211,55:004d33,80:00cc66,100:00ff88&height=320&section=header&text=Muhammad%20Irtaza&fontSize=75&fontColor=00ff88&fontAlignY=42&desc=Web%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=63&descColor=39d353&animation=fadeIn&stroke=00ff88&strokeWidth=2.5" width="100%"/>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=00FF88&center=true&vCenter=true&width=700&height=55&lines=I+encrypt.+I+architect.+I+solve.;Logic+before+libraries.+Always.;From+C%2B%2B+foundations+to+Java+vaults.;The+code+is+clean+%E2%80%94+or+it+gets+rewritten.;Security+is+not+a+feature.+It%27s+a+mindset." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=00FF88&center=true&vCenter=true&multiline=false&width=700&height=55&lines=I+encrypt.+I+architect.+I+solve.;Logic+before+libraries.+Always.;From+C%2B%2B+foundations+to+Java+vaults.;The+code+is+clean+%E2%80%94+or+it+gets+rewritten.;Security+is+not+a+feature.+It%27s+a+mindset." alt="Typing SVG"/>
 </a>
+
+<br/>
+
+<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 <br/><br/>
 
+<!-- BADGES ROW 1 -->
 <a href="https://www.linkedin.com/in/muhammad-irtaza-7aa628359/" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Connect-00ff88?style=for-the-badge&labelColor=0a0f0a&color=00ff88"/>
 </a>
@@ -22,6 +32,17 @@
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Irtaza404&label=%F0%9F%91%81%20Views&color=006633&style=for-the-badge&labelColor=0a0f0a"/>
+
+<br/><br/>
+
+<!-- ANIMATED STATUS BADGES -->
+<img src="https://img.shields.io/badge/Status-Building%20🔨-00ff88?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Mindset-Security%20First%20🛡️-00dd77?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Approach-Logic%20First%20⚙️-00bb55?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Coffee-Required%20☕-009944?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
@@ -54,6 +75,13 @@
 ---
 
 ## `🚀 Featured Projects`
+
+<br/>
+
+<!-- DIVIDER ANIMATION -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003322,50:006644,100:003322&height=3&section=header&animation=fadeIn" width="100%"/>
+</div>
 
 <br/>
 
@@ -114,6 +142,15 @@
 ![DSA](https://img.shields.io/badge/DSA-Custom%20Built-007733?style=flat-square&logoColor=white&labelColor=0d1117)
 
 </div>
+
+<br/>
+
+<!-- THIN DIVIDER -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:003322,50:006644,100:003322&height=3&section=header&animation=fadeIn" width="100%"/>
+</div>
+
+<br/>
 
 ---
 
@@ -176,6 +213,30 @@
 ![STL](https://img.shields.io/badge/STL-Vectors%20%26%20Structs-00bb55?style=flat-square&logoColor=white&labelColor=0d1117)
 ![Console](https://img.shields.io/badge/Console-Role--Driven%20App-009944?style=flat-square&logoColor=white&labelColor=0d1117)
 
+</div>
+
+---
+
+## `📊 GitHub Analytics`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Irtaza404&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&text_color=7ee787&icon_color=00cc66&hide_border=false&count_private=true"/>
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irtaza404&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00ff88&title_color=00ff88&text_color=7ee787&hide_border=false"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Irtaza404&theme=dark&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=39d353&sideLabels=7ee787&dates=3a3a3a&border=00ff88" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Irtaza404&theme=matrix&no-frame=false&no-bg=true&margin-w=6&column=6" width="100%"/>
 </div>
 
 ---
