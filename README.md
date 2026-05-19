@@ -1,25 +1,14 @@
-<!-- HEADER BANNER — multi-color spectrum -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,15:0a0020,35:1a0050,55:4b0082,75:8b00ff,90:ff00cc,100:ff6600&height=320&section=header&text=Muhammad%20Irtaza&fontSize=75&fontColor=ffffff&fontAlignY=42&desc=Web%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Problem%20Solver&descSize=18&descAlignY=63&descColor=e0aaff&animation=fadeIn&stroke=bf00ff&strokeWidth=2.5" width="100%"/>
+<!-- ████████████████████  HEADER  ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,12:050010,28:1a0050,48:4b0082,68:8b00ff,84:ff00cc,96:ff6600,100:ffaa00&height=340&section=header&text=Muhammad%20Irtaza&fontSize=78&fontColor=ffffff&fontAlignY=40&desc=Web%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Problem%20Solver&descSize=19&descAlignY=62&descColor=e0aaff&animation=fadeIn&stroke=bf00ff&strokeWidth=3" width="100%"/>
 
 <div align="center">
 
-<!-- TYPING SVG — hot pink -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2800&pause=700&color=FF6EC7&center=true&vCenter=true&multiline=false&width=700&height=55&lines=I+encrypt.+I+architect.+I+solve.;Logic+before+libraries.+Always.;From+C%2B%2B+foundations+to+Java+vaults.;The+code+is+clean+%E2%80%94+or+it+gets+rewritten.;Security+is+not+a+feature.+It%27s+a+mindset." alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<!-- ANIMATED SNAKE CONTRIBUTION GRAPH -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<!-- MAIN TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2600&pause=600&color=FF6EC7&center=true&vCenter=true&width=750&height=60&lines=I+encrypt.+I+architect.+I+solve.;Logic+before+libraries.+Always.;From+C%2B%2B+foundations+to+Java+vaults.;The+code+is+clean+%E2%80%94+or+it+gets+rewritten.;Security+is+not+a+feature.+It%27s+a+mindset." alt="Typing SVG"/>
 
 <br/><br/>
 
-<!-- CONTACT BADGES — each a different color -->
+<!-- CONTACT BADGES -->
 <a href="https://www.linkedin.com/in/muhammad-irtaza-7aa628359/" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-Connect-0077B5?style=for-the-badge&labelColor=0a0f0a&color=0077B5"/>
 </a>
@@ -36,7 +25,7 @@
 
 <br/><br/>
 
-<!-- STATUS BADGES — full rainbow row -->
+<!-- STATUS BADGES — rainbow row -->
 <img src="https://img.shields.io/badge/Status-Building%20🔨-ff6b6b?style=flat-square&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Mindset-Security%20First%20🛡️-bf00ff?style=flat-square&labelColor=0d1117"/>
@@ -44,12 +33,25 @@
 <img src="https://img.shields.io/badge/Approach-Logic%20First%20⚙️-00bfff?style=flat-square&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Coffee-Required%20☕-f39c12?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Collaborate%20🤝-2ecc71?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+<!-- ANIMATED SNAKE -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
----
+<!-- ████  WAVE DIVIDER ████ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,30:ff00cc,60:bf00ff,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
 
-## `⚡ Who am I?`
+<!-- ████████████████████  WHO AM I  ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:1a0050,80:4b0082,100:0d1117&height=60&section=header&text=%E2%9A%A1%20Who%20am%20I%3F&fontSize=28&fontColor=e0aaff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
@@ -70,23 +72,82 @@
 ```
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&width=560&height=30&lines=%5B+Systems+don%27t+build+themselves.+%5D;%5B+Security+is+not+a+feature.+It%27s+a+mindset.+%5D;%5B+Every+line+has+a+reason.+%5D" alt="Quote Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3800&pause=1800&color=00BFFF&center=true&vCenter=true&width=580&height=32&lines=%5B+Systems+don%27t+build+themselves.+%5D;%5B+Security+is+not+a+feature.+It%27s+a+mindset.+%5D;%5B+Every+line+has+a+reason.+%5D" alt="Quote Typing"/>
 </div>
 
----
+<!-- ████  WAVE DIVIDER ████ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:00bfff,70:4b0082,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
 
-## `🚀 Featured Projects`
+<!-- ████████████████████  TECH STACK  ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:002244,80:003366,100:0d1117&height=60&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=28&fontColor=00bfff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
-<br/>
-
-<!-- DIVIDER — purple to cyan -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4b0082,50:00bfff,100:4b0082&height=3&section=header&animation=fadeIn" width="100%"/>
-</div>
+
+<!-- LANGUAGES -->
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<br/><br/>
+
+<!-- TOOLS & DB -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+
+<br/><br/>
+
+<!-- SKILL BARS using progress-style badges -->
+**`Languages & Proficiency`**
 
 <br/>
 
-### 🔐 Project I — IronGate Vault
+![Java](https://img.shields.io/badge/Java-████████████████████░-ED8B00?style=flat-square&labelColor=0d1117)
+&nbsp;`95%`
+
+![Python](https://img.shields.io/badge/Python-██████████████████░░-3776AB?style=flat-square&labelColor=0d1117)
+&nbsp;`88%`
+
+![C++](https://img.shields.io/badge/C++-████████████████░░░░-00599C?style=flat-square&labelColor=0d1117)
+&nbsp;`78%`
+
+![DSA](https://img.shields.io/badge/DSA-█████████████████░░░-bf00ff?style=flat-square&labelColor=0d1117)
+&nbsp;`84%`
+
+![Security](https://img.shields.io/badge/IS%2FSecurity-███████████████░░░░░-ff6b6b?style=flat-square&labelColor=0d1117)
+&nbsp;`74%`
+
+![Web](https://img.shields.io/badge/Web%20Dev-████████████░░░░░░░░-f39c12?style=flat-square&labelColor=0d1117)
+&nbsp;`60%`
+
+</div>
+
+<!-- ████  WAVE DIVIDER ████ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:bf00ff,70:ff6600,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
+
+<!-- ████████████████████  FEATURED PROJECTS  ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:200040,80:4b0082,100:0d1117&height=60&section=header&text=%F0%9F%9A%80%20Featured%20Projects&fontSize=28&fontColor=ff6ec7&animation=fadeIn&fontAlignY=70" width="100%"/>
+
+<br/>
+
+<!-- ══ PROJECT I ══ -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=99999&color=BF00FF&center=true&vCenter=true&width=500&height=40&lines=%F0%9F%94%90+Project+I+%E2%80%94+IronGate+Vault" alt="Project I"/>
+</div>
 
 > **Java · IS + DSA Capstone** — A production-grade secure file vault built entirely from scratch.
 
@@ -111,11 +172,9 @@
 <br/>
 
 <div align="center">
-
 <a href="https://github.com/Irtaza404/IronGate_Vault">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irtaza404&repo=IronGate_Vault&bg_color=0d1117&border_color=bf00ff&title_color=bf00ff&text_color=e0aaff&icon_color=ff6ec7" />
 </a>
-
 </div>
 
 <br/>
@@ -144,18 +203,15 @@
 
 </div>
 
+<!-- thin rainbow divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:bf00ff,33:00bfff,66:2ecc71,100:bf00ff&height=2&section=header" width="100%"/>
+
 <br/>
 
-<!-- DIVIDER — orange to pink -->
+<!-- ══ PROJECT II ══ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6600,50:ff00cc,100:ff6600&height=3&section=header&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=99999&color=FF6B6B&center=true&vCenter=true&width=600&height=40&lines=%F0%9F%9A%A8+Project+II+%E2%80%94+Emergency+Response+System" alt="Project II"/>
 </div>
-
-<br/>
-
----
-
-### 🚨 Project II — Emergency Response System
 
 > **C++ · Semester 1 Flagship** — A full console dispatch simulation with 5 roles. Built from scratch. Rewritten once.
 
@@ -180,11 +236,9 @@
 <br/>
 
 <div align="center">
-
 <a href="https://github.com/Irtaza404/Emergency-Response-System-ERS-">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irtaza404&repo=Emergency-Response-System-ERS-&bg_color=0d1117&border_color=ff6b6b&title_color=ff6b6b&text_color=ffb3b3&icon_color=f39c12" />
 </a>
-
 </div>
 
 <br/>
@@ -216,9 +270,11 @@
 
 </div>
 
----
+<!-- ████  WAVE DIVIDER ████ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:ff6b6b,55:f39c12,85:ffdd57,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
 
-## `📊 GitHub Analytics`
+<!-- ████████████████████  GITHUB ANALYTICS  ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:001a33,80:003355,100:0d1117&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=28&fontColor=00bfff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 <div align="center">
 
@@ -236,13 +292,23 @@
 
 <br/>
 
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Irtaza404&bg_color=0d1117&color=bf00ff&line=00bfff&point=ff6ec7&area=true&area_color=4b0082&hide_border=false&border_color=7c3aed&title_color=e0aaff" width="98%"/>
+</div>
+
+<br/>
+
+<!-- TROPHIES -->
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Irtaza404&theme=radical&no-frame=false&no-bg=true&margin-w=6&column=6" width="100%"/>
 </div>
 
----
+<!-- ████  WAVE DIVIDER ████ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:2ecc71,60:00bfff,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
 
-## `⚡ Beyond the Terminal`
+<!-- ████████████████████  BEYOND THE TERMINAL  ████████████████████ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,40:0a2010,80:0f3318,100:0d1117&height=60&section=header&text=%E2%9A%A1%20Beyond%20the%20Terminal&fontSize=28&fontColor=2ecc71&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 <div align="center">
 
@@ -255,11 +321,13 @@
 
 </div>
 
----
+<!-- ████  WAVE DIVIDER ████ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:4b0082,60:bf00ff,100:0d1117&height=80&section=footer&animation=fadeIn" width="100%"/>
 
+<!-- ████████████████████  FOOTER  ████████████████████ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=5000&pause=3000&color=FF6EC7&center=true&vCenter=true&width=700&height=40&lines=%22Well-structured+code+is+just+as+important+as+creative+features.%22+%E2%80%94+M.+Irtaza" alt="Quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=5000&pause=3000&color=FF6EC7&center=true&vCenter=true&width=720&height=40&lines=%22Well-structured+code+is+just+as+important+as+creative+features.%22+%E2%80%94+M.+Irtaza" alt="Quote"/>
 
 <br/>
 
@@ -267,7 +335,6 @@
 
 <br/>
 
-<!-- FOOTER — full spectrum wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,20:ff00cc,45:bf00ff,70:00bfff,90:2ecc71,100:0d1117&height=140&section=footer&animation=fadeIn&text=Let%27s%20Build%20Something%20Unbreakable&fontSize=20&fontColor=ffffff&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6600,18:ff00cc,36:bf00ff,54:7b00ff,72:00bfff,90:2ecc71,100:0d1117&height=160&section=footer&animation=fadeIn&text=Let%27s%20Build%20Something%20Unbreakable&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%"/>
 
 </div>
