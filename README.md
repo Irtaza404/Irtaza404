@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,20:020d05,50:003322,80:006644,100:00ff88&height=300&section=header&text=Muhammad%20Irtaza&fontSize=70&fontColor=00ff88&fontAlignY=42&desc=Security%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Problem%20Solver&descSize=17&descAlignY=62&descColor=39d353&animation=fadeIn&stroke=00ff88&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,20:020d05,50:003322,80:006644,100:00ff88&height=300&section=header&text=Muhammad%20Irtaza&fontSize=70&fontColor=00ff88&fontAlignY=42&desc=Web%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Problem%20Solver&descSize=17&descAlignY=62&descColor=39d353&animation=fadeIn&stroke=00ff88&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
@@ -175,46 +175,6 @@
 ![OOP](https://img.shields.io/badge/OOP-Architecture-00dd77?style=flat-square&logoColor=white&labelColor=0d1117)
 ![STL](https://img.shields.io/badge/STL-Vectors%20%26%20Structs-00bb55?style=flat-square&logoColor=white&labelColor=0d1117)
 ![Console](https://img.shields.io/badge/Console-Role--Driven%20App-009944?style=flat-square&logoColor=white&labelColor=0d1117)
-
-</div>
-
----
-
-## `🛠️ Arsenal`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,spring,git,github,vscode&theme=dark&perline=10" />
-
-<br/><br/>
-
-| Domain | Stack |
-|--------|-------|
-| 🔐 **Security** | AES-256, bcrypt, OTP / 2FA, RSA, Classical Ciphers, S-DES |
-| 🧩 **Algorithms** | Custom DSA — DynamicArray, LinkedList (SLL/DLL/CLL), Stack, Queue |
-| ☕ **Java** | OOP, File I/O (all 14 java.io classes), Exception Handling, Collections |
-| 🌐 **Web** | HTML, CSS, SQL Server · JavaScript + Spring Boot (incoming) |
-| 🤖 **AI Track** | Python, ML, NLP, CV — BSAI coursework |
-
-</div>
-
----
-
-## `📊 The Numbers`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Irtaza404&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=7ee787&icon_color=00cc66&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irtaza404&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=7ee787&include_all_commits=true&count_private=true" height="170"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Irtaza404&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff88&fire=00cc66&currStreakLabel=00ff88&sideLabels=7ee787&dates=39d353" width="480"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Irtaza404&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%"/>
 
 </div>
 
