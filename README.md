@@ -165,13 +165,6 @@
 
 <br/>
 
-<div align="center">
-<a href="https://github.com/Irtaza404/IronGate_Vault">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irtaza404&repo=IronGate_Vault&bg_color=03001C&border_color=8B00FF&title_color=C77DFF&text_color=e0aaff&icon_color=FF1493&show_owner=true"/>
-</a>
-</div>
-
-<br/>
 
 ```
   ╔══════════════════════════════════════════════════════════════╗
@@ -233,14 +226,6 @@
 
 <br/>
 
-<div align="center">
-<a href="https://github.com/Irtaza404/Emergency-Response-System-ERS-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Irtaza404&repo=Emergency-Response-System-ERS-&bg_color=1A0000&border_color=FF4500&title_color=FF6B6B&text_color=FFBBAA&icon_color=FFD700&show_owner=true"/>
-</a>
-</div>
-
-<br/>
-
 ```
   ╔══════════════════════════════════════════════════════════════╗
   ║         EMERGENCY RESPONSE SYSTEM — DISPATCH ENGINE          ║
@@ -281,9 +266,6 @@
 
 <br/>
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=Irtaza404&show_icons=true&bg_color=03001C&border_color=8B00FF&title_color=C77DFF&text_color=E0AAFF&icon_color=00BFFF&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irtaza404&layout=donut&bg_color=1A0000&border_color=FF4500&title_color=FF6B6B&text_color=FFBBAA&hide_border=false"/>
 
 <br/><br/>
 
@@ -293,9 +275,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irtaza404&bg_color=03001C&color=C77DFF&line=FF1493&point=FFD700&area=true&area_color=8B00FF&hide_border=false&border_color=8B00FF&title_color=E0AAFF&custom_title=Muhammad+Irtaza's+Contribution+Graph" width="98%"/>
 
-<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Irtaza404&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" width="100%"/>
 
 </div>
 
