@@ -2,10 +2,10 @@
 <!-- ║                     ANIMATED HEADER                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,12:03001C,30:0A0025,52:1B0044,72:4A00A0,88:8B00FF,96:FF1493,100:FF6B00&height=380&section=header&fontSize=1&animation=fadeIn" width="100%"/>
 
 <!-- ANIMATED NAME SVG — custom glowing stroke animation -->
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,12:03001C,30:0A0025,52:1B0044,72:4A00A0,88:8B00FF,96:FF1493,100:FF6B00&height=380&section=header&fontSize=1&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=58&duration=1&pause=99999999&color=00000000&center=true&vCenter=true&width=1&height=1&lines=x" alt=""/>
 
