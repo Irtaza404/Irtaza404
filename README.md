@@ -119,18 +119,6 @@
 
 <br/><br/>
 
-**`── Proficiency ──`**
-
-<br/>
-
-| Skill | Level | Progress |
-|:------|:-----:|:---------|
-| ☕ Java | `95%` | ![](https://geps.dev/progress/95?dangerColor=FF1493&warningColor=8B00FF&successColor=00BFFF) |
-| 🐍 Python | `88%` | ![](https://geps.dev/progress/88?dangerColor=FF1493&warningColor=8B00FF&successColor=00BFFF) |
-| ⚙️ C++ | `78%` | ![](https://geps.dev/progress/78?dangerColor=FF4500&warningColor=FF8C00&successColor=FFD700) |
-| 🧠 DSA | `84%` | ![](https://geps.dev/progress/84?dangerColor=FF1493&warningColor=8B00FF&successColor=00BFFF) |
-| 🔐 InfoSec | `74%` | ![](https://geps.dev/progress/74?dangerColor=FF4500&warningColor=FF8C00&successColor=FFD700) |
-| 🌐 Web Dev | `60%` | ![](https://geps.dev/progress/60?dangerColor=FF4500&warningColor=FF8C00&successColor=FFD700) |
 
 </div>
 
