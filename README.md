@@ -16,6 +16,7 @@
 <br/>
 
 <!-- ANIMATED WAVE BADGES -->
+<div align="center">
 <a href="https://www.linkedin.com/in/muhammad-irtaza-7aa628359/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
@@ -27,7 +28,7 @@
 </a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Irtaza404&label=👁️+Views&color=FF1493&style=for-the-badge"/>
 <br/>
-
+</div>
 <!-- SNAKE -->
 <div align="center">
 <picture>
